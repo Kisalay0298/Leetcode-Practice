@@ -1,5 +1,5 @@
 # Leetcode-Practice
-I 'm now keeping the solutions of leetcode questions i am practicing
+I 'm now keeping the track of all the solutions of leetcode questions i am practicing on daily basis
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
