@@ -25,4 +25,16 @@ I 'm now keeping the track of all the solutions of leetcode questions i am pract
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
