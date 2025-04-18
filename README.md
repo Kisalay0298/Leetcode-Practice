@@ -8,6 +8,7 @@ I 'm now keeping the track of all the solutions of leetcode questions i am pract
 | ------- |
 | [0001-two-sum](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0001-two-sum) |
 | [1656-count-good-triplets](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
