@@ -38,4 +38,8 @@ I 'm now keeping the track of all the solutions of leetcode questions i am pract
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
