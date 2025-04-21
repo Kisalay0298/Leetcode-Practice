@@ -45,4 +45,5 @@ I 'm now keeping the track of all the solutions of leetcode questions i am pract
 | [0595-big-countries](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
