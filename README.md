@@ -55,4 +55,5 @@ I 'm now keeping the track of all the solutions of leetcode questions i am pract
 | [1827-invalid-tweets](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1948-rearrange-products-table) |
+| [2087-confirmation-rate](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
