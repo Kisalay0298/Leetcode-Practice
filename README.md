@@ -64,4 +64,5 @@ Keeping the track of all the solutions of leetcode questions i am practicing on 
 | [1908-recyclable-and-low-fat-products](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/1948-rearrange-products-table) |
 | [2087-confirmation-rate](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kisalay0298/Leetcode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
